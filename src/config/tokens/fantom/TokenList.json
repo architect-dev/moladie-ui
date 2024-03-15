@@ -1,0 +1,587 @@
+{
+	"0x0000000000000000000000000000000000000000": {
+		"address": "0x0000000000000000000000000000000000000000",
+		"decimals": 18,
+		"symbol": "FTM"
+	},
+	"0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b": {
+		"address": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+		"decimals": 18,
+		"symbol": "AAVE_MULTI"
+	},
+	"0x753fbc5800a8c8e3fb6dc6415810d627a387dfc9": {
+		"address": "0x753fbc5800a8c8e3fb6dc6415810d627a387dfc9",
+		"decimals": 18,
+		"symbol": "BADGER_MULTI"
+	},
+	"0x46e7628e8b4350b2716ab470ee0ba1fa9e76c6c5": {
+		"address": "0x46e7628e8b4350b2716ab470ee0ba1fa9e76c6c5",
+		"decimals": 18,
+		"symbol": "BAND_MULTI"
+	},
+	"0x841fad6eae12c286d1fd18d1d525dffa75c7effe": {
+		"address": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe",
+		"decimals": 18,
+		"symbol": "BOO"
+	},
+	"0xb01e8419d842beebf1b70a7b5f7142abbaf7159d": {
+		"address": "0xb01e8419d842beebf1b70a7b5f7142abbaf7159d",
+		"decimals": 18,
+		"symbol": "COVER"
+	},
+	"0x1e4f97b9f9f913c46f1632781732927b9019c68b": {
+		"address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
+		"decimals": 18,
+		"symbol": "CRV_MULTI"
+	},
+	"0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e": {
+		"address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+		"decimals": 18,
+		"symbol": "DAI_MULTI"
+	},
+	"0x049d68029688eabf473097a2fc38ef61633a3c7a": {
+		"address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+		"decimals": 6,
+		"symbol": "fUSDT_MULTI"
+	},
+	"0xf16e81dce15b08f326220742020379b855b87df9": {
+		"address": "0xf16e81dce15b08f326220742020379b855b87df9",
+		"decimals": 18,
+		"symbol": "ICE"
+	},
+	"0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8": {
+		"address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+		"decimals": 18,
+		"symbol": "LINK_MULTI"
+	},
+	"0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc": {
+		"address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc",
+		"decimals": 18,
+		"symbol": "SNX_MULTI"
+	},
+	"0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc": {
+		"address": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
+		"decimals": 18,
+		"symbol": "SUSHI_MULTI"
+	},
+	"0x04068da6c83afcfa0e13ba15a6696662335d5b75": {
+		"address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+		"decimals": 6,
+		"symbol": "USDC_MULTI"
+	},
+	"0x321162cd933e2be498cd2267a90534a804051b11": {
+		"address": "0x321162cd933e2be498cd2267a90534a804051b11",
+		"decimals": 8,
+		"symbol": "wBTC_MULTI"
+	},
+	"0x74b23882a30290451a17c44f4f05243b6b58c76d": {
+		"address": "0x74b23882a30290451a17c44f4f05243b6b58c76d",
+		"decimals": 18,
+		"symbol": "wETH_MULTI"
+	},
+	"0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83": {
+		"address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+		"decimals": 18,
+		"symbol": "wFTM"
+	},
+	"0x29b0da86e484e1c0029b56e817912d778ac0ec69": {
+		"address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+		"decimals": 18,
+		"symbol": "YFI"
+	},
+	"0x09e145a1d53c0045f41aeef25d8ff982ae74dd56": {
+		"address": "0x09e145a1d53c0045f41aeef25d8ff982ae74dd56",
+		"decimals": 0,
+		"symbol": "ZOO"
+	},
+	"0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454": {
+		"address": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
+		"decimals": 18,
+		"symbol": "BNB_MULTI"
+	},
+	"0xd0660cd418a64a1d44e9214ad8e459324d8157f1": {
+		"address": "0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
+		"decimals": 12,
+		"symbol": "WOOFY_MULTI"
+	},
+	"0xddcb3ffd12750b45d32e084887fdf1aabab34239": {
+		"address": "0xddcb3ffd12750b45d32e084887fdf1aabab34239",
+		"decimals": 18,
+		"symbol": "ANY"
+	},
+	"0xd6070ae98b8069de6b494332d1a1a81b6179d960": {
+		"address": "0xd6070ae98b8069de6b494332d1a1a81b6179d960",
+		"decimals": 18,
+		"symbol": "BIFI_MULTI"
+	},
+	"0x6c021ae822bea943b2e66552bde1d2696a53fbb7": {
+		"address": "0x6c021ae822bea943b2e66552bde1d2696a53fbb7",
+		"decimals": 18,
+		"symbol": "TOMB"
+	},
+	"0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37": {
+		"address": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
+		"decimals": 18,
+		"symbol": "TSHARE"
+	},
+	"0xdc301622e621166bd8e82f2ca0a26c13ad0be355": {
+		"address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
+		"decimals": 18,
+		"symbol": "FRAX"
+	},
+	"0x82f0b8b456c1a451378467398982d4834b6829c1": {
+		"address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
+		"decimals": 18,
+		"symbol": "MIM_MULTI"
+	},
+	"0x3a3841f5fa9f2c283ea567d5aeea3af022dd2262": {
+		"address": "0x3a3841f5fa9f2c283ea567d5aeea3af022dd2262",
+		"decimals": 18,
+		"symbol": "SHADE"
+	},
+	"0xd3b71117e6c1558c1553305b44988cd944e97300": {
+		"address": "0xd3b71117e6c1558c1553305b44988cd944e97300",
+		"decimals": 18,
+		"symbol": "YEL"
+	},
+	"0xe0654c8e6fd4d733349ac7e09f6f23da256bf475": {
+		"address": "0xe0654c8e6fd4d733349ac7e09f6f23da256bf475",
+		"decimals": 18,
+		"symbol": "SCREAM"
+	},
+	"0xc5e2b037d30a390e62180970b3aa4e91868764cd": {
+		"address": "0xc5e2b037d30a390e62180970b3aa4e91868764cd",
+		"decimals": 18,
+		"symbol": "TAROT"
+	},
+	"0xf43cc235e686d7bc513f53fbffb61f760c3a1882": {
+		"address": "0xf43cc235e686d7bc513f53fbffb61f760c3a1882",
+		"decimals": 18,
+		"symbol": "ELITE"
+	},
+	"0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37": {
+		"address": "0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37",
+		"decimals": 18,
+		"symbol": "FTMO"
+	},
+	"0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a": {
+		"address": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a",
+		"decimals": 18,
+		"symbol": "WOO_MULTI"
+	},
+	"0xc60d7067dfbc6f2caf30523a064f416a5af52963": {
+		"address": "0xc60d7067dfbc6f2caf30523a064f416a5af52963",
+		"decimals": 18,
+		"symbol": "TREEB"
+	},
+	"0xfbfae0dd49882e503982f8eb4b8b1e464eca0b91": {
+		"address": "0xfbfae0dd49882e503982f8eb4b8b1e464eca0b91",
+		"decimals": 18,
+		"symbol": "TCS"
+	},
+	"0xbbc4a8d076f4b1888fec42581b6fc58d242cf2d5": {
+		"address": "0xbbc4a8d076f4b1888fec42581b6fc58d242cf2d5",
+		"decimals": 18,
+		"symbol": "FONT_MULTI"
+	},
+	"0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9": {
+		"address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9",
+		"decimals": 18,
+		"symbol": "LQDR"
+	},
+	"0xd8321aa83fb0a4ecd6348d4577431310a6e0814d": {
+		"address": "0xd8321aa83fb0a4ecd6348d4577431310a6e0814d",
+		"decimals": 18,
+		"symbol": "GEIST"
+	},
+	"0x468003b688943977e6130f4f68f23aad939a1040": {
+		"address": "0x468003b688943977e6130f4f68f23aad939a1040",
+		"decimals": 18,
+		"symbol": "SPELL_MULTI"
+	},
+	"0x0def844ed26409c5c46dda124ec28fb064d90d27": {
+		"address": "0x0def844ed26409c5c46dda124ec28fb064d90d27",
+		"decimals": 18,
+		"symbol": "CoUSD"
+	},
+	"0x90e892fed501ae00596448aecf998c88816e5c0f": {
+		"address": "0x90e892fed501ae00596448aecf998c88816e5c0f",
+		"decimals": 18,
+		"symbol": "DMD"
+	},
+	"0x477a9d5df9beda06f6b021136a2efe7be242fcc9": {
+		"address": "0x477a9d5df9beda06f6b021136a2efe7be242fcc9",
+		"decimals": 18,
+		"symbol": "TRAVA"
+	},
+	"0x3dc57b391262e3aae37a08d91241f9ba9d58b570": {
+		"address": "0x3dc57b391262e3aae37a08d91241f9ba9d58b570",
+		"decimals": 18,
+		"symbol": "YOSHI"
+	},
+	"0xc758295cd1a564cdb020a78a681a838cf8e0627d": {
+		"address": "0xc758295cd1a564cdb020a78a681a838cf8e0627d",
+		"decimals": 18,
+		"symbol": "FS"
+	},
+	"0xd3c325848d7c6e29b574cb0789998b2ff901f17e": {
+		"address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
+		"decimals": 18,
+		"symbol": "1ART"
+	},
+	"0xfb98b335551a418cd0737375a2ea0ded62ea213b": {
+		"address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+		"decimals": 18,
+		"symbol": "MAI_MULTI"
+	},
+	"0x5c4fdfc5233f935f20d2adba572f770c2e377ab0": {
+		"address": "0x5c4fdfc5233f935f20d2adba572f770c2e377ab0",
+		"decimals": 9,
+		"symbol": "HEC"
+	},
+	"0x5602df4a94eb6c680190accfa2a475621e0ddbdc": {
+		"address": "0x5602df4a94eb6c680190accfa2a475621e0ddbdc",
+		"decimals": 9,
+		"symbol": "SPA"
+	},
+	"0x9f47f313acfd4bdc52f4373b493eae7d5ac5b765": {
+		"address": "0x9f47f313acfd4bdc52f4373b493eae7d5ac5b765",
+		"decimals": 18,
+		"symbol": "JOE_MULTI"
+	},
+	"0x9879abdea01a879644185341f7af7d8343556b7a": {
+		"address": "0x9879abdea01a879644185341f7af7d8343556b7a",
+		"decimals": 18,
+		"symbol": "TUSD_MULTI"
+	},
+	"0x6496994241804d7fe2b032901931e03bcd82301f": {
+		"address": "0x6496994241804d7fe2b032901931e03bcd82301f",
+		"decimals": 18,
+		"symbol": "MODA"
+	},
+	"0x89346b51a54263cf2e92da79b1863759efa68692": {
+		"address": "0x89346b51a54263cf2e92da79b1863759efa68692",
+		"decimals": 18,
+		"symbol": "wsSPA"
+	},
+	"0x248cb87dda803028dfead98101c9465a2fbda0d4": {
+		"address": "0x248cb87dda803028dfead98101c9465a2fbda0d4",
+		"decimals": 18,
+		"symbol": "CHARM"
+	},
+	"0x94ccf60f700146bea8ef7832820800e2dfa92eda": {
+		"address": "0x94ccf60f700146bea8ef7832820800e2dfa92eda",
+		"decimals": 18,
+		"symbol": "wsHEC"
+	},
+	"0x152888854378201e173490956085c711f1ded565": {
+		"address": "0x152888854378201e173490956085c711f1ded565",
+		"decimals": 18,
+		"symbol": "MST"
+	},
+	"0xc3118248e7a3b2c103d87392fca5eb6ed8daa754": {
+		"address": "0xc3118248e7a3b2c103d87392fca5eb6ed8daa754",
+		"decimals": 18,
+		"symbol": "DUCAT"
+	},
+	"0x9d8f97a3c2f9f397b6d46cbe2d39cc1d8cf19010": {
+		"address": "0x9d8f97a3c2f9f397b6d46cbe2d39cc1d8cf19010",
+		"decimals": 18,
+		"symbol": "OOE"
+	},
+	"0x230576a0455d7ae33c6defe64182c0bb68bafaf3": {
+		"address": "0x230576a0455d7ae33c6defe64182c0bb68bafaf3",
+		"decimals": 18,
+		"symbol": "BRO"
+	},
+	"0x85dec8c4b2680793661bca91a8f129607571863d": {
+		"address": "0x85dec8c4b2680793661bca91a8f129607571863d",
+		"decimals": 18,
+		"symbol": "BRUSH"
+	},
+	"0x511d35c52a3c244e7b8bd92c0c297755fbd89212": {
+		"address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
+		"decimals": 18,
+		"symbol": "AVAX_MULTI"
+	},
+	"0x9fb9a33956351cf4fa040f65a13b835a3c8764e3": {
+		"address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+		"decimals": 18,
+		"symbol": "MULTI"
+	},
+	"0x40df1ae6074c35047bff66675488aa2f9f6384f3": {
+		"address": "0x40df1ae6074c35047bff66675488aa2f9f6384f3",
+		"decimals": 18,
+		"symbol": "MATIC_MULTI"
+	},
+	"0x10010078a54396f62c96df8532dc2b4847d47ed3": {
+		"address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+		"decimals": 18,
+		"symbol": "HND"
+	},
+	"0x77128dfdd0ac859b33f44050c6fa272f34872b5e": {
+		"address": "0x77128dfdd0ac859b33f44050c6fa272f34872b5e",
+		"decimals": 18,
+		"symbol": "CREDIT"
+	},
+	"0x33333ee26a7d02e41c33828b42fb1e0889143477": {
+		"address": "0x33333ee26a7d02e41c33828b42fb1e0889143477",
+		"decimals": 18,
+		"symbol": "LIQR"
+	},
+	"0xe1e6b01ae86ad82b1f1b4eb413b219ac32e17bf6": {
+		"address": "0xe1e6b01ae86ad82b1f1b4eb413b219ac32e17bf6",
+		"decimals": 18,
+		"symbol": "XRUNE"
+	},
+	"0xe64b9fd040d1f9d4715c645e0d567ef69958d3d9": {
+		"address": "0xe64b9fd040d1f9d4715c645e0d567ef69958d3d9",
+		"decimals": 18,
+		"symbol": "MOD"
+	},
+	"0x7a6e4e3cc2ac9924605dca4ba31d1831c84b44ae": {
+		"address": "0x7a6e4e3cc2ac9924605dca4ba31d1831c84b44ae",
+		"decimals": 18,
+		"symbol": "2OMB"
+	},
+	"0xc54a1684fd1bef1f077a336e6be4bd9a3096a6ca": {
+		"address": "0xc54a1684fd1bef1f077a336e6be4bd9a3096a6ca",
+		"decimals": 18,
+		"symbol": "2SHARES"
+	},
+	"0x131c7afb4e5f5c94a27611f7210dfec2215e85ae": {
+		"address": "0x131c7afb4e5f5c94a27611f7210dfec2215e85ae",
+		"decimals": 18,
+		"symbol": "POWER"
+	},
+	"0xf24bcf4d1e507740041c9cfd2dddb29585adce1e": {
+		"address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
+		"decimals": 18,
+		"symbol": "BEETS"
+	},
+	"0xc165d941481e68696f43ee6e99bfb2b23e0e3114": {
+		"address": "0xc165d941481e68696f43ee6e99bfb2b23e0e3114",
+		"decimals": 18,
+		"symbol": "OXD"
+	},
+	"0x59c6606ed2af925f270733e378d6af7829b5b3cf": {
+		"address": "0x59c6606ed2af925f270733e378d6af7829b5b3cf",
+		"decimals": 18,
+		"symbol": "WBOND"
+	},
+	"0x65def5029a0e7591e46b38742bfedd1fb7b24436": {
+		"address": "0x65def5029a0e7591e46b38742bfedd1fb7b24436",
+		"decimals": 18,
+		"symbol": "KAE"
+	},
+	"0x582423c10c9e83387a96d00a69ba3d11ee47b7b5": {
+		"address": "0x582423c10c9e83387a96d00a69ba3d11ee47b7b5",
+		"decimals": 18,
+		"symbol": "RING"
+	},
+	"0x8a41f13a4fae75ca88b1ee726ee9d52b148b0498": {
+		"address": "0x8a41f13a4fae75ca88b1ee726ee9d52b148b0498",
+		"decimals": 18,
+		"symbol": "PAE"
+	},
+	"0x112df7e3b4b7ab424f07319d4e92f41e6608c48b": {
+		"address": "0x112df7e3b4b7ab424f07319d4e92f41e6608c48b",
+		"decimals": 18,
+		"symbol": "pFTM"
+	},
+	"0xe705af5f63fcabdcdf5016aa838eaaac35d12890": {
+		"address": "0xe705af5f63fcabdcdf5016aa838eaaac35d12890",
+		"decimals": 9,
+		"symbol": "MCRT_MULTI"
+	},
+	"0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e": {
+		"address": "0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e",
+		"decimals": 18,
+		"symbol": "TOR"
+	},
+	"0xad996a45fd2373ed0b10efa4a8ecb9de445a4302": {
+		"address": "0xad996a45fd2373ed0b10efa4a8ecb9de445a4302",
+		"decimals": 18,
+		"symbol": "ALPACA_MULTI"
+	},
+	"0x8d7d3409881b51466b483b11ea1b8a03cded89ae": {
+		"address": "0x8d7d3409881b51466b483b11ea1b8a03cded89ae",
+		"decimals": 18,
+		"symbol": "BASED"
+	},
+	"0x49c290ff692149a4e16611c694fded42c954ab7a": {
+		"address": "0x49c290ff692149a4e16611c694fded42c954ab7a",
+		"decimals": 18,
+		"symbol": "BSHARE"
+	},
+	"0xe83dfaaafd3310474d917583ae9633b4f68fb036": {
+		"address": "0xe83dfaaafd3310474d917583ae9633b4f68fb036",
+		"decimals": 18,
+		"symbol": "RAINI"
+	},
+	"0x888ef71766ca594ded1f0fa3ae64ed2941740a20": {
+		"address": "0x888ef71766ca594ded1f0fa3ae64ed2941740a20",
+		"decimals": 18,
+		"symbol": "SOLID"
+	},
+	"0x174c7106aeecdc11389f7dd21342f05f46ccb40f": {
+		"address": "0x174c7106aeecdc11389f7dd21342f05f46ccb40f",
+		"decimals": 18,
+		"symbol": "DEVIL"
+	},
+	"0x21ada0d2ac28c3a5fa3cd2ee30882da8812279b6": {
+		"address": "0x21ada0d2ac28c3a5fa3cd2ee30882da8812279b6",
+		"decimals": 18,
+		"symbol": "OATH"
+	},
+	"0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590": {
+		"address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+		"decimals": 18,
+		"symbol": "STG"
+	},
+	"0x11223344d5b43ec0930af1236f4cf67bf7d81217": {
+		"address": "0x11223344d5b43ec0930af1236f4cf67bf7d81217",
+		"decimals": 18,
+		"symbol": "QTM"
+	},
+	"0x2d72a97a31dc920db03330780d30074626e39c8a": {
+		"address": "0x2d72a97a31dc920db03330780d30074626e39c8a",
+		"decimals": 18,
+		"symbol": "APE_MULTI"
+	},
+	"0x3e01b7e242d5af8064cb9a8f9468ac0f8683617c": {
+		"address": "0x3e01b7e242d5af8064cb9a8f9468ac0f8683617c",
+		"decimals": 18,
+		"symbol": "ORBS_MULTI"
+	},
+	"0xa74bb2c6e5fe2805a0086d05e37c256274935690": {
+		"address": "0xa74bb2c6e5fe2805a0086d05e37c256274935690",
+		"decimals": 18,
+		"symbol": "TGOLD"
+	},
+	"0x7381ed41f6de418dde5e84b55590422a57917886": {
+		"address": "0x7381ed41f6de418dde5e84b55590422a57917886",
+		"decimals": 18,
+		"symbol": "beFTM"
+	},
+	"0x6a31aca4d2f7398f04d9b6ffae2d898d9a8e7938": {
+		"address": "0x6a31aca4d2f7398f04d9b6ffae2d898d9a8e7938",
+		"decimals": 18,
+		"symbol": "wTRTL"
+	},
+	"0xde5ed76e7c05ec5e4572cfc88d1acea165109e44": {
+		"address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+		"decimals": 18,
+		"symbol": "DEUS"
+	},
+	"0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3": {
+		"address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+		"decimals": 18,
+		"symbol": "LegacyDEI"
+	},
+	"0x412a13c109ac30f0db80ad3bd1defd5d0a6c0ac6": {
+		"address": "0x412a13c109ac30f0db80ad3bd1defd5d0a6c0ac6",
+		"decimals": 18,
+		"symbol": "SD(Wormhole)"
+	},
+	"0xd7028092c830b5c8fce061af2e593413ebbc1fc1": {
+		"address": "0xd7028092c830b5c8fce061af2e593413ebbc1fc1",
+		"decimals": 18,
+		"symbol": "sFTMX"
+	},
+	"0x70f9fd19f857411b089977e7916c05a0fc477ac9": {
+		"address": "0x70f9fd19f857411b089977e7916c05a0fc477ac9",
+		"decimals": 18,
+		"symbol": "gALCX_MULTI"
+	},
+	"0x74d1d2a851e339b8cb953716445be7e8abdf92f4": {
+		"address": "0x74d1d2a851e339b8cb953716445be7e8abdf92f4",
+		"decimals": 18,
+		"symbol": "xTAROT"
+	},
+	"0x87d57f92852d7357cf32ac4f6952204f2b0c1a27": {
+		"address": "0x87d57f92852d7357cf32ac4f6952204f2b0c1a27",
+		"decimals": 18,
+		"symbol": "RNDM"
+	},
+	"0xde1e704dae0b4051e80dabb26ab6ad6c12262da0": {
+		"address": "0xde1e704dae0b4051e80dabb26ab6ad6c12262da0",
+		"decimals": 18,
+		"symbol": "DEI"
+	},
+	"0x01e77288b38b416f972428d562454fb329350bac": {
+		"address": "0x01e77288b38b416f972428d562454fb329350bac",
+		"decimals": 18,
+		"symbol": "MMY"
+	},
+	"0x953e94caf91a1e32337d0548b9274f337920edfa": {
+		"address": "0x953e94caf91a1e32337d0548b9274f337920edfa",
+		"decimals": 18,
+		"symbol": "USDV"
+	},
+	"0x28a92dde19d9989f39a49905d7c9c2fac7799bdf": {
+		"address": "0x28a92dde19d9989f39a49905d7c9c2fac7799bdf",
+		"decimals": 6,
+		"symbol": "USDC_LZ"
+	},
+	"0xcc1b99ddac1a33c201a742a1851662e87bc7f22c": {
+		"address": "0xcc1b99ddac1a33c201a742a1851662e87bc7f22c",
+		"decimals": 6,
+		"symbol": "USDT_LZ"
+	},
+	"0x695921034f0387eac4e11620ee91b1b15a6a09fe": {
+		"address": "0x695921034f0387eac4e11620ee91b1b15a6a09fe",
+		"decimals": 18,
+		"symbol": "WETH_LZ"
+	},
+	"0x1b6382dbdea11d97f24495c9a90b7c88469134a4": {
+		"address": "0x1b6382dbdea11d97f24495c9a90b7c88469134a4",
+		"decimals": 6,
+		"symbol": "USDC_AXL"
+	},
+	"0xd226392c23fb3476274ed6759d4a478db3197d82": {
+		"address": "0xd226392c23fb3476274ed6759d4a478db3197d82",
+		"decimals": 6,
+		"symbol": "USDT_AXL"
+	},
+	"0x448d59b4302ab5d2dadf9611bed9457491926c8e": {
+		"address": "0x448d59b4302ab5d2dadf9611bed9457491926c8e",
+		"decimals": 8,
+		"symbol": "WBTC_AXL"
+	},
+	"0xfe7eda5f2c56160d406869a8aa4b2f365d544c7b": {
+		"address": "0xfe7eda5f2c56160d406869a8aa4b2f365d544c7b",
+		"decimals": 18,
+		"symbol": "WETH_AXL"
+	},
+	"0x97bdafe3830734acf12da25359674277fcc33729": {
+		"address": "0x97bdafe3830734acf12da25359674277fcc33729",
+		"decimals": 18,
+		"symbol": "KIRBY"
+	},
+	"0x5cf90b977c86415a53ce3b7be13b26f6abddfee2": {
+		"address": "0x5cf90b977c86415a53ce3b7be13b26f6abddfee2",
+		"decimals": 18,
+		"symbol": "FTAILS"
+	},
+	"0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31": {
+		"address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
+		"decimals": 18,
+		"symbol": "ITP"
+	},
+	"0xe53afa646d48e9ef68fcd559f2a598880a3f1370": {
+		"address": "0xe53afa646d48e9ef68fcd559f2a598880a3f1370",
+		"decimals": 18,
+		"symbol": "TOMB+"
+	},
+	"0xb5fd949436772e07cbbf35fb6524e79924c54cb3": {
+		"address": "0xb5fd949436772e07cbbf35fb6524e79924c54cb3",
+		"decimals": 18,
+		"symbol": "BLACKY"
+	},
+	"0x5c725631fd299703d0a74c23f89a55c6b9a0c52f": {
+		"address": "0x5c725631fd299703d0a74c23f89a55c6b9a0c52f",
+		"decimals": 18,
+		"symbol": "POLTER"
+	}
+}

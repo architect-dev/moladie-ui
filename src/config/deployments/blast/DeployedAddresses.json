@@ -1,0 +1,21 @@
+{
+	"GasRefund": "0x823bae3ce3631c704f447489249e28c254439f83",
+	"Multicall": "0xd9b3b246ac3b6e44641443fec1e3749df72050b8",
+	"SummitPoints": "0x0d5fb48134f42cace14e9242ffcdf2002d16a943",
+	"SummitReferrals": "0x57bb1ff6376d8c0ad39cc2091d3065fdb2a28c12",
+	"SummitRouter": "0x175151D4B9b23E00130f1fCeF5EDB8F806Fc29c5",
+	"SummitVolumeAdapterV1": "0xf09fbde3eadbe6e804fe13dfdc57c016fe738d17",
+	"SummitAdmin": "0x7db531576dd39283273df5d38ec3473f6246aaad",
+	"SummitOracleV3": "0x16abABE2C69e29a847A7Cb9DcA01866c9ceFB9bf",
+	"ThrusterV3Adapter": "0x150e7e68c4b8d021b39f53c7f1e36f74cfeb6a10",
+	"MonoswapV3Adapter": "0x1243f859d73ccdcf0e81c8421ae94f3e9f777b6c",
+	"CyberBlastV3Adapter": "0x05a6e85ea60e92103d68dff4257994e99d4dc3f0",
+	"BitconnectV2Adapter": "0xf878567be62dc63d7eeb5ad442a11a47b1cca01e",
+	"BlasterSwapV2Adapter": "0x6eeab7b5a04655d4212ed51a636a2f8b2d8d228d",
+	"CyberBlastV2Adapter": "0xfb76b9dd418f149f3e49fc84ae8103dba49a8817",
+	"DYORSwapV2Adapter": "0x471af5fe1e1d2bc4cfc1f833650bfd795d289737",
+	"Thruster10FeeV2Adapter": "0xd9c4379811035d14ddcecaaf69388689e718a33d",
+	"Thruster3FeeV2Adapter": "0x243516d83fe5ab65d047be6ceb0f78249c271fec",
+	"HyperBlastV2Adapter": "0x750d477f09542ce3b5a2d3b2c54308c67fd87886",
+	"MonoswapV2Adapter": "0xb0a8c728619ac9d9d9695c0253413cb08be37dd4"
+}
